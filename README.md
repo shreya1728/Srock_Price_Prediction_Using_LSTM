@@ -1,1 +1,1 @@
-# Srock_Price_Prediction_Using_LSTM
+# Stock_Price_Prediction_Using_LSTM
